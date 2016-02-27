@@ -1,7 +1,3 @@
-import java.nio.charset.MalformedInputException;
-
-import javax.swing.text.StyledEditorKit.ForegroundAction;
-
 //Chapter3 Question 1
 public class FindLargest {
 	public static void main(String[] args){
