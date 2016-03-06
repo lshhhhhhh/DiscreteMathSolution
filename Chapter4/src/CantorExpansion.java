@@ -17,7 +17,7 @@ public class CantorExpansion {
 				n=n-factorial(maxdigit)*result[result.length-i-1];
 				maxdigit--;
 			}
-		}
+		} 
 		return result;
 	}
 	public static int factorial(int number) {
