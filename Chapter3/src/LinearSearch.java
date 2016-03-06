@@ -7,7 +7,7 @@ public class LinearSearch {
 		System.out.println(result1);
 		System.out.println(result2);
 	}
-	public static int FindInt(int[] arr,int target){
+	 public static int FindInt(int[] arr,int target){
 		int index =-1;
 		for(int i=0;i<arr.length;i++){
 			if(arr[i]==target){
